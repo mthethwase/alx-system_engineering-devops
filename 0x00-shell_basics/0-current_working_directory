@@ -1,2 +1,2 @@
 #!/bin/bash
-acho "$(pwd)"
+echo "$(pwd)"
